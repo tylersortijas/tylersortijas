@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tylersortijas
 - 👀 I’m interested in video games and cars
 - 🌱 I’m currently learning my foundations and java
-- 💞️ I’m looking to collaborate on projects that can help better my knowledge further expand the scope of my portfolio
+- 💞️ I’m looking to collaborate on projects that can help better my knowledge and further expand the scope of my portfolio
 - 📫 How to reach me is by email tylersortijas@yahoo.com
 
 <!---
