@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tylersortijas
 - 👀 I’m interested in video games and cars
 - 🌱 I’m currently learning my foundations and java
-- 💞️ I’m looking to collaborate on projects that can help better my knowledge and further expand the scope of my portfolio
+- 💞️ I’m looking to collaborate on projects that can help better my knowledge and further expand the scope of my capabilities
 - 📫 How to reach me is by email tylersortijas@gmail.com
 - 🤓 Skills accumulated since Aug. 2020 (HTML, CSS, Javascript, Java, Python, jQuery, NodeJs, Express, MongoDB, Mongoose, Django, API, EJS, React.js, SQL, Git, Command line)
 
