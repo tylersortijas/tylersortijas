@@ -1,3 +1,6 @@
+<div id="" align="center">
+	<img src="https://github.com/tylersortijas/tylersortijas/blob/main/images/AI-profile-pic.jpg" width="50%" />
+</div>
 <h1 align="center">Hi 👋, I'm Francisco Tyler Sortijas Roncalli</h1>
 <h3 align="center">A Web Developer from Los Angeles, CA</h3>
 <h4 align="center">Hi my name is Francisco Roncalli a web developer based out of LA. I've been pursuing Web Development for almost 2 years now. My goal is to make a name for myself in this industry. I wish to innovate, be dependable, and to one day be at a level to inspire younger developers to follow their dreams and create to their heart's content.</h4>
