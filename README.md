@@ -1,5 +1,5 @@
 <div id="" align="center">
-	<img src="https://github.com/tylersortijas/tylersortijas/blob/main/images/AI-profile-pic.jpg" width="50%" />
+	<img src="https://github.com/tylersortijas/tylersortijas/blob/main/images/Copy%20of%20Black%20%26%20Gray%20Minimalist%20Profile%20LinkedIn%20Banner.png" width="100%" />
 </div>
 <h1 align="center">Hi 👋, I'm Francisco Tyler Sortijas Roncalli</h1>
 <h3 align="center">A Web Developer from Los Angeles, CA</h3>
