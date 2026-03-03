@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Francisco Tyler Sortijas Roncalli</h1>
 <h3 align="center">A Web Developer from Los Angeles, CA</h3>
-<h4 align="center">Hi my name is Francisco Roncalli a web developer based out of LA. I've been a Web Developer and Email Developer for 4 years now. My goal is to learn as much as I can and push the boundaries of our industry. I wish to innovate, be dependable, and to one day be at a level to inspire younger developers to follow their dreams and create to their heart's content.</h4>
+<h4 align="center">Hi, I’m Francisco Roncalli, a Los Angeles-based developer with 4+ years of experience across web, mobile, and email/MarTech. I build modern front-end applications (React/Next.js, PWAs) and production-ready, responsive email programs with personalization and automation using Adobe Journey Optimizer, Adobe Campaign Classic, and Salesforce Marketing Cloud. I’m comfortable owning work end-to-end—from requirements and development to QA (Litmus/Email on Acid), debugging, documentation, and smooth handoffs. I work closely with product, design, engineering, and marketing teams to ship reliable experiences that scale to large audiences. I’m also AI-empowered, using AI tools to accelerate research, prototyping, content variations, and testing, and to automate repetitive workflows while keeping quality and reliability high. I care about accessibility, maintainable code, and strong standards that reduce rework and speed up delivery. I’m always learning and enjoy working on products where technology and customer experience meet.</h4>
 
 
 <hr>
